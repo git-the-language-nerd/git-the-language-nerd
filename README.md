@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a language nerd and programmer, specializing in Python. I graduated from Economics and Linguistics worked in Berlin and Cairo between 2017-2022. I am currently doing a Master's in Computational Linguistics, Machine Learning and AI at the University of Potsdam.
+I'm a language nerd and programmer, specializing in Python. I graduated from Economics & Linguistics, and worked in Berlin and Cairo between 2017-2022. I am currently doing a Master's in Computational Linguistics, Machine Learning and AI at the University of Potsdam.
 
 Ask me about languages and you're in for a long conversation ;) I love everything languages. I speak German (mother tongue), English (C2), French (C1), Spanish (B2), Arabic (B1), Turkish (B1).
 
